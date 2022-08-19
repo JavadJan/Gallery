@@ -1,9 +1,11 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was thailwind with [Create React App](https://github.com/facebook/create-react-app).
+
+## Get API Key 
+Log in to https://pixabay.com/ and take your own API Key
 
 ## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
